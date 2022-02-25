@@ -1,12 +1,4 @@
-# HALISAHA
-
-* Kaliteli sahalar
-* Yeni zemin 
-* Her sahada kamera
-
-
-```                           
-  YEŞİL HALI SAHA
-```
+# BOOTSTRAP
+* BOOTSTRAP ilk ödev
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
